@@ -1,4 +1,4 @@
-# 🏆 Brainwave
+# 🤖 Brainwave
 
 Brainwave is a modern, animated SaaS AI landing page built with **React, Vite, JavaScript and Tailwind CSS**. It features smooth animations, modular components, responsive design and enhanced UX for high engagement.
 
