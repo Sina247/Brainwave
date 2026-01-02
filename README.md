@@ -1,6 +1,6 @@
-# 🤖 Brainwave
+# 🤖 Modern AI SaaS Landing Page
 
-Brainwave is a modern, animated SaaS AI landing page built with **React, Vite, JavaScript and Tailwind CSS**. It features smooth animations, modular components, responsive design and enhanced UX for high engagement.
+Modern AI SaaS Landing Page is a modern, animated SaaS AI landing page built with **React, Vite, JavaScript and Tailwind CSS**. It features smooth animations, modular components, responsive design and enhanced UX for high engagement.
 
 ---
 
